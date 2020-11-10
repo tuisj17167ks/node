@@ -1,35 +1,22 @@
 {
-  "name": "node-js-getting-started",
+  "name": "node",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "",
   "main": "server.js",
-  "engines": {
-    "node": "12.x"
-  },
-
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "cool-ascii-faces": "^1.3.4",
-    "ejs": "^2.5.6",
-    "express": "^4.15.2"
-  },
-  "devDependencies": {
-    "got": "^11.3.0",
-    "tape": "^4.7.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tuisj17167ks/node.git"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
+  "author": "",
   "license": "MIT",
+  "dependencies": {
+   "express": "^4.16.1",
+   "socket.io": "^2.3.0"
+  },
   "bugs": {
     "url": "https://github.com/tuisj17167ks/node/issues"
   },
