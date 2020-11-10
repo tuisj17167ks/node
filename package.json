@@ -2,7 +2,6 @@
   "name": "node",
   "version": "1.0.0",
   "description": "A barebones Node.js app using [Express 4](http://expressjs.com/).",
-  "main": "index.js",
  "main": "server.js",
  "scripts": {
   "start": "node server.js",
