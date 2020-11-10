@@ -7,7 +7,7 @@
   },
   "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "node test.js"
   },
   "dependencies": {
@@ -30,8 +30,8 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heroku/node-js-getting-started/issues"
+    "url": "https://github.com/tuisj17167ks/node/issues"
   },
-  "homepage": "https://github.com/heroku/node-js-getting-started#readme",
+  "homepage": "https://github.com/tuisj17167ks/node#readme",
   "author": ""
 }
